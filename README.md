@@ -4,6 +4,8 @@ CityNav is a Google-Maps inspired application written in C++.
 It uses the OpenStreetMap (OSM) database and API to retrieve geographical data, 
 and displays graphics using the GTK toolkit and EZGL graphics package.
 
+This project was made for the ECE297 Software Design course at UofT. Source code is not available to uphold academic integrity
+
 # Main Features
 
 * Buttons to zoom in, out and to fit
